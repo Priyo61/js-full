@@ -1,4 +1,4 @@
 # git hub 
-This is my first Js programmed.
+This is my first github notes.
 <br>
 Author:Priyo sorokhaibam 
